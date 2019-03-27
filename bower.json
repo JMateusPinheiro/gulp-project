@@ -1,0 +1,11 @@
+{
+  "name": "gulp-project",
+  "description": "",
+  "main": "app.js",
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
